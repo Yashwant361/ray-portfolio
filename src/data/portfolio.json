@@ -1,0 +1,304 @@
+{
+  "personal": {
+    "name": "Yashwant",
+    "fullName": "Yashwant Ray Dev",
+    "role": "Full Stack Developer",
+    "tagline": "Building scalable web apps & uncovering data stories",
+    "email": "yashwantray57@gmail.com",
+    "github": "Yashwant361",
+    "linkedin": "yashwantray361",
+    "hackerrank": "https://www.hackerrank.com/profile/rksh05042000",
+    "location": "India",
+    "resumeUrl": "https://yashwant361.github.io/Portfolio-/"
+  },
+  "about": {
+    "story": "I started my coding journey with a simple curiosity — how do websites actually work? What began as late-night YouTube tutorials evolved into a full-blown obsession with the MERN stack. I'm a self-taught developer who believes in learning by building, failing fast, and iterating faster."
+  },
+  "skills": {
+    "frontend": [
+      {
+        "name": "React.js",
+        "level": 78,
+        "icon": "⚛️"
+      },
+      {
+        "name": "JavaScript (ES6+)",
+        "level": 80,
+        "icon": "🟨"
+      },
+      {
+        "name": "HTML5 & CSS3",
+        "level": 85,
+        "icon": "🎨"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": 72,
+        "icon": "💨"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "level": 70,
+        "icon": "🟢"
+      },
+      {
+        "name": "Express.js",
+        "level": 68,
+        "icon": "🚀"
+      },
+      {
+        "name": "REST APIs",
+        "level": 72,
+        "icon": "🔗"
+      },
+      {
+        "name": "JWT Auth",
+        "level": 60,
+        "icon": "🔐"
+      }
+    ],
+    "database": [
+      {
+        "name": "MongoDB",
+        "level": 70,
+        "icon": "🍃"
+      },
+      {
+        "name": "SQL (MySQL)",
+        "level": 65,
+        "icon": "🗄️"
+      },
+      {
+        "name": "Mongoose ODM",
+        "level": 67,
+        "icon": "📦"
+      }
+    ],
+    "data": [
+      {
+        "name": "Python (Basics)",
+        "level": 45,
+        "icon": "🐍"
+      },
+      {
+        "name": "Pandas",
+        "level": 35,
+        "icon": "🐼"
+      },
+      {
+        "name": "Excel / Sheets",
+        "level": 60,
+        "icon": "📊"
+      },
+      {
+        "name": "Data Visualization",
+        "level": 40,
+        "icon": "📈"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git & GitHub",
+        "level": 75,
+        "icon": "🐙"
+      },
+      {
+        "name": "VS Code",
+        "level": 90,
+        "icon": "💙"
+      },
+      {
+        "name": "Postman",
+        "level": 70,
+        "icon": "📮"
+      },
+      {
+        "name": "DSA (Beginner)",
+        "level": 40,
+        "icon": "🧩"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "DevConnect — Social Platform for Developers",
+      "description": "A full-stack social networking platform where developers can share projects, follow each other, post updates, and collaborate. Features JWT auth, real-time notifications, and a clean feed.",
+      "type": "fullstack",
+      "tech": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JWT",
+        "Tailwind CSS"
+      ],
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+      "github": "https://github.com/ray-dev/devconnect",
+      "live": "https://devconnect-demo.vercel.app",
+      "featured": true,
+      "highlights": [
+        "JWT Authentication",
+        "REST API",
+        "MongoDB Atlas",
+        "Responsive UI"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "TaskFlow — Kanban Task Manager",
+      "description": "A drag-and-drop Kanban board app inspired by Trello. Users can create boards, add cards, set deadlines, and track progress. Full CRUD with user authentication.",
+      "type": "fullstack",
+      "tech": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "React DnD"
+      ],
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&q=80",
+      "github": "https://github.com/ray-dev/taskflow",
+      "live": "https://taskflow-app.vercel.app",
+      "featured": true,
+      "highlights": [
+        "Drag & Drop",
+        "Real-time updates",
+        "MERN Stack",
+        "Dark Mode"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ShopEase — E-Commerce Platform",
+      "description": "A fully functional e-commerce app with product listings, cart management, Stripe payment integration, and admin dashboard. Role-based access for admin vs customer.",
+      "type": "fullstack",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Stripe API",
+        "Redux"
+      ],
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80",
+      "github": "https://github.com/ray-dev/shopease",
+      "live": "https://shopease-demo.vercel.app",
+      "featured": true,
+      "highlights": [
+        "Stripe Payments",
+        "Admin Dashboard",
+        "Redux State",
+        "JWT + Roles"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "COVID-19 India Data Dashboard",
+      "description": "My first data analysis project — a Python + Pandas analysis of COVID-19 India dataset, visualized as an interactive dashboard. Shows state-wise trends, recovery rates, and peaks.",
+      "type": "data",
+      "tech": [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "Streamlit",
+        "CSV"
+      ],
+      "image": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=600&q=80",
+      "github": "https://github.com/ray-dev/covid-dashboard",
+      "live": "https://covid-india-dashboard.streamlit.app",
+      "featured": false,
+      "highlights": [
+        "Data Cleaning",
+        "Trend Analysis",
+        "Visualization",
+        "Streamlit"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "WeatherNow — Real-time Weather App",
+      "description": "A clean weather application using OpenWeather API. Search any city, view 5-day forecasts, humidity, wind speed, and dynamic backgrounds that change based on weather conditions.",
+      "type": "frontend",
+      "tech": [
+        "React",
+        "OpenWeather API",
+        "Axios",
+        "CSS Animations"
+      ],
+      "image": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=600&q=80",
+      "github": "https://github.com/ray-dev/weathernow",
+      "live": "https://weathernow-ray.vercel.app",
+      "featured": false,
+      "highlights": [
+        "API Integration",
+        "Geolocation",
+        "Animated UI",
+        "Responsive"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "HackerRank 3★ in Problem Solving",
+      "platform": "HackerRank",
+      "description": "Earned 3-star badge in Problem Solving by consistently solving algorithmic challenges in JavaScript. Demonstrates strong logical thinking and foundational DSA skills.",
+      "stars": 3,
+      "badge": "Problem Solving",
+      "date": "2024"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Developer Certified",
+      "platform": "HackerRank",
+      "description": "Passed HackerRank's JavaScript (Basic) certification test — validating ES6+, closures, promises, and DOM manipulation knowledge.",
+      "stars": 1,
+      "badge": "JavaScript",
+      "date": "2024"
+    },
+    {
+      "id": 3,
+      "title": "Built & Deployed 5+ Full Stack Projects",
+      "platform": "Personal",
+      "description": "Self-initiative: researched, designed, built, and deployed 5+ production-grade projects across MERN stack without any formal training.",
+      "stars": 0,
+      "badge": "Self-Taught",
+      "date": "2023–2024"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Software Engineer Certificate",
+      "platform": "HackerRank",
+      "date": "2026",
+      "credential": "https://www.hackerrank.com/certificates/iframe/22683ef5cfb6",
+      "image": "./public/images/SE.png"
+    },
+    {
+      "id": 2,
+      "title": "Rest API (Intermediate) Certificate",
+      "platform": "HackerRank",
+      "date": "2026",
+      "credential": "https://www.hackerrank.com/certificates/iframe/448db548a341",
+      "image": "./public/images/restapi.png"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Certificate",
+      "platform": "HackerRank",
+      "date": "2025",
+      "credential": "https://www.hackerrank.com/certificates/iframe/c502316e285b",
+      "image": "./public/images/js.png"
+    },
+    {
+      "id": 4,
+      "title": "SQL (Basic) Certificate",
+      "platform": "HackerRank",
+      "date": "2024",
+      "credential": "https://www.hackerrank.com/certificates/iframe/10cb48b4627b",
+      "image": "./public/images/sql.png"
+    }
+  ]
+}
