@@ -274,16 +274,16 @@
       "platform": "HackerRank",
       "date": "2026",
       "credential": "https://www.hackerrank.com/certificates/iframe/22683ef5cfb6",
-      "image": "/images/SE.png"
+      "image": "/SE.png"
     },
-    
+
     {
       "id": 2,
       "title": "Rest API (Intermediate) Certificate",
       "platform": "HackerRank",
       "date": "2026",
       "credential": "https://www.hackerrank.com/certificates/iframe/448db548a341",
-      "image": "/images/restapi.png"
+      "image": "/restapi.png"
     },
     {
       "id": 3,
@@ -291,7 +291,7 @@
       "platform": "HackerRank",
       "date": "2025",
       "credential": "https://www.hackerrank.com/certificates/iframe/c502316e285b",
-      "image": "/images/js.png"
+      "image": "/js.png"
     },
     {
       "id": 4,
@@ -299,7 +299,7 @@
       "platform": "HackerRank",
       "date": "2024",
       "credential": "https://www.hackerrank.com/certificates/iframe/10cb48b4627b",
-      "image": "/images/sql.png"
+      "image": "/sql.png"
     }
   ]
 }
