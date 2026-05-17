@@ -274,7 +274,7 @@
       "platform": "HackerRank",
       "date": "2026",
       "credential": "https://www.hackerrank.com/certificates/iframe/22683ef5cfb6",
-      "image": "./public/images/SE.png"
+      "image": "/images/SE.png"
     },
     {
       "id": 2,
@@ -282,7 +282,7 @@
       "platform": "HackerRank",
       "date": "2026",
       "credential": "https://www.hackerrank.com/certificates/iframe/448db548a341",
-      "image": "./public/images/restapi.png"
+      "image": "/images/restapi.png"
     },
     {
       "id": 3,
@@ -290,7 +290,7 @@
       "platform": "HackerRank",
       "date": "2025",
       "credential": "https://www.hackerrank.com/certificates/iframe/c502316e285b",
-      "image": "./public/images/js.png"
+      "image": "/images/js.png"
     },
     {
       "id": 4,
@@ -298,7 +298,7 @@
       "platform": "HackerRank",
       "date": "2024",
       "credential": "https://www.hackerrank.com/certificates/iframe/10cb48b4627b",
-      "image": "./public/images/sql.png"
+      "image": "/images/sql.png"
     }
   ]
 }
